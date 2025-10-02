@@ -65,7 +65,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>Proyecto creado con React + Vite ⚡</p>
+        <p>Gerardo perez</p>
       </footer>
     </div>
   )
