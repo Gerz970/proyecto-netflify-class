@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="75" fill="#667eea"/>
+  <rect x="80" y="120" width="352" height="60" rx="10" fill="white"/>
+  <rect x="80" y="210" width="352" height="60" rx="10" fill="white"/>
+  <rect x="80" y="300" width="352" height="60" rx="10" fill="white"/>
+  <circle cx="130" cy="150" r="15" fill="#667eea"/>
+  <circle cx="130" cy="240" r="15" fill="#48bb78"/>
+  <circle cx="130" cy="330" r="15" fill="#667eea"/>
+  <text x="170" y="160" font-family="Arial" font-size="28" fill="#4a5568">Tarea 1</text>
+  <text x="170" y="250" font-family="Arial" font-size="28" fill="#4a5568" text-decoration="line-through">Tarea 2</text>
+  <text x="170" y="340" font-family="Arial" font-size="28" fill="#4a5568">Tarea 3</text>
+</svg>
