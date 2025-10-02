@@ -13,7 +13,7 @@ function FormularioTarea({ agregarTarea }) {
 
   return (
     <form onSubmit={manejarSubmit} className="formulario-tarea">
-      <h2>Agregar Nueva Tarea</h2>
+      <h2>Agregar Nueva Tarea (actualizada)</h2>
       <div className="input-grupo">
         <input
           type="text"
